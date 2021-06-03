@@ -28,4 +28,8 @@ The eighth layer of our CNN architecture is known as the flatten layer to conver
 
 Firstly, we use the data in the training set to train the convolution network to find suitable weights of filters in the three convolutional sub-layers and the weights which offer the two fully connected layers with a minimal error. Next, we use the data in the validation set to test the convolution network to get validation error and cross-entropy loss. Within the same process, we repeat the convolution network training until we reach up to 10 epochs. 
 
+## Result and Analysis
 
+We have plotted different graphs like iteration obtained graphs, graph based on loss and accuracy, and confusion matrix. Each graph shows the performance of our model. 
+
+While training the convolution network we have observed that loss is decreasing in each epoch. And also, shows that there is a minimum error while training our data. 
