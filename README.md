@@ -36,3 +36,10 @@ Firstly, we use the data in the training set to train the convolution network to
 We have plotted different graphs like iteration obtained graphs, graph based on loss and accuracy, and confusion matrix. Each graph shows the performance of our model. 
 
 While training the convolution network we have observed that loss is decreasing in each epoch. And also, shows that there is a minimum error while training our data. 
+
+![result-and-analysis](https://user-images.githubusercontent.com/40186859/120801044-63fd2980-c560-11eb-9907-72d610287ccb.png)
+
+Next, we have evaluated the graph based on model accuracy and model loss which shows the performance of our model on training and validation set, and each interaction we have observed better results.
+
+![model_loss_accuracy](https://user-images.githubusercontent.com/40186859/120801191-93ac3180-c560-11eb-8728-e69848585f90.png)
+
