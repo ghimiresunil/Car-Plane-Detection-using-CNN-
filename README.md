@@ -43,3 +43,8 @@ Next, we have evaluated the graph based on model accuracy and model loss which s
 
 ![model_loss_accuracy](https://user-images.githubusercontent.com/40186859/120801191-93ac3180-c560-11eb-8728-e69848585f90.png)
 
+At last, we have created a confusion matrix to evaluate the performance of our model. It provides us insight to calculate the mistake provided by a classifier. 
+
+![confusion matrix](https://user-images.githubusercontent.com/40186859/120801486-f0a7e780-c560-11eb-8a8a-9926166b74ae.png)
+
+
