@@ -47,4 +47,24 @@ At last, we have created a confusion matrix to evaluate the performance of our m
 
 ![confusion matrix](https://user-images.githubusercontent.com/40186859/120801486-f0a7e780-c560-11eb-8a8a-9926166b74ae.png)
 
+In order to compare various techniques, the car plane detection project measures the following terms produced by the CNN model. Also, and uses them to compare and analyze the output of the different analyses of different quantitive measurements. 
+
+* True Negative (TN)
+* False Negative (FN)
+* True Positive (TP)
+* False Positive (FP)
+
+
+TP: TP is the situation where the system classifies or recognizes the image of the plane as the plane.
+
+TN: TN is the situation where the system classifies or recognizes the image of the car as the car.
+
+FP: FP is the situation where the system classifies or recognizes the image of the car as the plane.
+
+FN: FN is the situation where the system classifies or recognizes the image of the plane as the car.
+
+## Result
+
+![result](https://user-images.githubusercontent.com/40186859/120802052-b2f78e80-c561-11eb-92a3-40268880c84f.png)
+
 
